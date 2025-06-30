@@ -1,56 +1,79 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
-</p>
+<!-- Fundo escuro e centralizado -->
+<div align="center" style="background-color:#0D1117; padding: 20px; border-radius: 10px;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A27ACC&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Manoela!;Formada+em+ADS+e+futura+dev+de+dados;%F0%9F%92%AB" alt="Typing SVG" />
-</p>
-
----
-
-<h1 align="center" style="color:#A27ACC;">Olá 👋, eu sou a Manoela Leite de Campos</h1>  
-<h3 align="center" style="color:#7B68EE;">Aprendiz NC TECH | Análise e Desenvolvimento de Sistemas | Dados</h3>  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manuela-campos&label=Visualizações&color=9C7ACC&style=flat-square" alt="Visualizações no perfil" />
-</p>
+<!-- Transição animada na apresentação com largura ajustada -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=A259FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Manoela+Campos!;Sejam+Bem-vindos!+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
 ---
 
-### 📬 Contato
-
-- 📧 Email: **manoelacampos1@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/manoela-campos-a41a42356)
+<!-- Cards de GitHub Stats e Most Used Languages lado a lado -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuela-campos&show_icons=true&hide_border=true&theme=radical&title_color=A259FF&text_color=ffffff&icon_color=A259FF" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuela-campos&layout=compact&hide_border=true&theme=radical&title_color=A259FF&text_color=ffffff" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+<!-- Redes Sociais -->
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/seuusuario/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://seuportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+<!-- Cards de linguagens -->
+<h2 style="color:#A259FF;">🚀 Tecnologias</h2>
 <p align="left">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=manuela-campos&show_icons=true&theme=vue-dark" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuela-campos&layout=compact&theme=vue-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuela-campos&theme=vue-dark" alt="GitHub Streak" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
 </p>
 
 ---
 
+<!-- Snake animada -->
+<h2 style="color:#A259FF;">🐍 Atividades Recentes</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelaCampos/ManoelaCampos/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManoelaCampos/ManoelaCampos/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ManoelaCampos/ManoelaCampos/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
+<!-- Estilo rosa nos commits -->
+<style>
+  .js-calendar-graph-svg rect.ContributionCalendar-day[data-level="1"] {
+    fill: #FF69B4 !important;
+  }
+</style>
+
+</div>

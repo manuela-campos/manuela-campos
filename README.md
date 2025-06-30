@@ -65,11 +65,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuela-campos/manuela-campos/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/manuela-campos/output/github-contribution-grid-snake.svg">
 </picture>
-<!-- Estilo rosa nos commits -->
-<style>
-  .js-calendar-graph-svg rect.ContributionCalendar-day[data-level="1"] {
-    fill: #FF69B4 !important;
-  }
-</style>
+
 
 </div>

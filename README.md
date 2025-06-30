@@ -60,15 +60,7 @@
 ---
 
 <!-- Snake animada -->
-<h2 style="color:#A259FF;">🐍 Atividades Recentes</h2>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/manuela-campos/manuela-campos/raw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/manuela-campos/manuela-campos/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="Cobrinha das contribuições" src="https://github.com/manuela-campos/manuela-campos/raw/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
+![Snake animation](https://github.com/manuela-campos/manuela-campos/blob/output/github-contribution-grid-snake.svg)
 <!-- Estilo rosa nos commits -->
 <style>
   .js-calendar-graph-svg rect.ContributionCalendar-day[data-level="1"] {

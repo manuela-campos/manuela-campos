@@ -27,3 +27,4 @@ jobs:
         with:
           commit_message: "Atualiza cobrinha das contribuições"
           file_pattern: dist/github-contribution-grid-snake*.svg
+

@@ -63,8 +63,6 @@
 <h2 style="color:#A259FF;">🐍 Atividades Recentes</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelaCampos/ManoelaCampos/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManoelaCampos/ManoelaCampos/output/github-contribution-grid-snake.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/manuela-campos/manuela-campos/raw/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/manuela-campos/manuela-campos/raw/output/github-contribution-grid-snake.svg" />
     <img alt="Cobrinha das contribuições" src="https://github.com/manuela-campos/manuela-campos/raw/output/github-contribution-grid-snake.svg" />

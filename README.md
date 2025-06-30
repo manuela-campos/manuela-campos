@@ -27,13 +27,13 @@
 <!-- Redes Sociais -->
 
 <p align="left">
-  <a href="www.linkedin.com/in/manoela-campos-a41a42356" target="_blank">
+  <a href="https://www.linkedin.com/in/manoela-campos-a41a42356" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="manoelacampos1@gmail.com" target="_blank">
+  <a href="maito:manoelacampos1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/seuusuario/" target="_blank">
+  <a href="https://www.instagram.com/campos_manuella07?igsh=NGhzN290enlxbHNs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://seuportfolio.com" target="_blank">
